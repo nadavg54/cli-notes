@@ -20,3 +20,4 @@ test123
 2021-07-26 21:04--ddDDaaTTee--anotherrrrrrrrrrr fuckkking oneeeeee
 2021-07-31 22:02--ddDDaaTTee--sharding should come last after replication and partioning--tAgS--[postgres,mysqldb,hussian]
 2021-07-31 22:09--ddDDaaTTee--application level sharding is problematic because you create coupling between app and server - how are you going to reshard?--tAgS--[sharding,hussian]
+2021-07-31 22:28--ddDDaaTTee--exclusive lock in sql 'select for update'--tAgS--[sql,lock,exclusive-lock,hussian]
